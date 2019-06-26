@@ -1,2 +1,0 @@
-# showcar
-showlineupcar
